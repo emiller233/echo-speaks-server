@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: master
-    upstream: tonesto7:master    # change `wei` to the owner of upstream repo
+    upstream: emiller233:master    # change `wei` to the owner of upstream repo
     mergeMethod: hardreset
